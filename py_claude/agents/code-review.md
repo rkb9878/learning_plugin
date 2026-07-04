@@ -1,9 +1,6 @@
 ---
 name: code-reviewer
 description: "ask always before review if yes then start review"
-model: sonnet
-color: yellow
-memory: user
 ---
 
 # Code Reviewer
