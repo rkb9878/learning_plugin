@@ -9,7 +9,7 @@
         {
             "name": "learning-plugin",
             "description": "A plugin for learning purposes",
-            "path": "./learning-plugin/"
+            "path": "./py_claude/"
         }
     ]
 }
