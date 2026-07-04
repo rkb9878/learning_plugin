@@ -1,5 +1,8 @@
 {
     "name": "learning-plugin",
     "description": "A plugin for learning purposes",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "author": {
+        "name": "Rahul"
+    }
 }
