@@ -1,0 +1,15 @@
+{
+    "name": "learning-marketplace",
+    "description": "A plugin for learning purposes",
+    "owner": {
+        "name": "Rahul Kumar",
+        "email": "rkb9878@gmail.com"
+    },
+    "plugins": [
+        {
+            "name": "learning-plugin",
+            "description": "A plugin for learning purposes",
+            "path": "./learning-plugin"
+        }
+    ]
+}
